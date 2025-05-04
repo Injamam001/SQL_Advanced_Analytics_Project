@@ -76,7 +76,7 @@ Provides a comprehensive summary of customer purchase behaviors and lifetime val
 
 
 
-## 📂 SQL Reports
+### 📂 SQL Reports
 
 - 📄 **Customer Report**  
   [View Script on GitHub](https://github.com/Injamam001/SQL_Advanced_Analytics_Project/blob/main/sql_script_ssms/customer_report.sql)
@@ -85,7 +85,7 @@ Provides a comprehensive summary of customer purchase behaviors and lifetime val
   [View Script on GitHub](https://github.com/Injamam001/SQL_Advanced_Analytics_Project/blob/main/sql_script_ssms/product_report.sql)
 
 
-## 📁 Dataset
+### 📁 Dataset
 
 This project uses a fictional sales dataset modeled in a star schema format, containing:
 
@@ -96,7 +96,7 @@ This project uses a fictional sales dataset modeled in a star schema format, con
 
 
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 - **SQL Server (T-SQL)**
 - **SSMS** (SQL Server Management Studio)
