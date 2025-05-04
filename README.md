@@ -2,7 +2,7 @@
 
 This repository contains SQL scripts used to generate consolidated reports on **customer** and **product** performance from a sales data warehouse. The insights are designed to support business intelligence initiatives such as segmentation, performance tracking, and KPI measurement.
 
----
+
 
 ## 📊 Project Overview
 
@@ -46,7 +46,7 @@ Consolidates key product metrics and behaviors to help identify top-performing p
   - **Average Order Revenue**  
   - **Average Monthly Revenue**
 
----
+
 
 ### 👤 Customer Report
 
@@ -74,7 +74,7 @@ Provides a comprehensive summary of customer purchase behaviors and lifetime val
   - **Average Order Value**  
   - **Average Monthly Spend**
 
----
+
 
 ## 📂 SQL Reports
 
@@ -84,7 +84,6 @@ Provides a comprehensive summary of customer purchase behaviors and lifetime val
 - 📄 **Product Report**  
   [View Script on GitHub](https://github.com/Injamam001/SQL_Advanced_Analytics_Project/blob/main/sql_script_ssms/product_report.sql)
 
----
 
 ## 📁 Dataset
 
@@ -94,7 +93,7 @@ This project uses a fictional sales dataset modeled in a star schema format, con
 - 🧍 **Dimension Tables:** `dim_customers`, `dim_products`.
 
 [📥 Download Dataset](https://github.com/Injamam001/SQL_Advanced_Analytics_Project/tree/main/dataset)
----
+
 
 
 ## 🛠 Tech Stack
@@ -102,7 +101,7 @@ This project uses a fictional sales dataset modeled in a star schema format, con
 - **SQL Server (T-SQL)**
 - **SSMS** (SQL Server Management Studio)
 
----
+
 
 ## 📬 Contact
 
