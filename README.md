@@ -1,4 +1,4 @@
-# 🧾 SQL Adcanced Analytics Project (Customer & Product KPIs)
+# 🧾 SQL Advanced Analytics Project
 
 This repository contains SQL scripts used to generate consolidated reports on **customer** and **product** performance from a sales data warehouse. The insights are designed to support business intelligence initiatives such as segmentation, performance tracking, and KPI measurement.
 
